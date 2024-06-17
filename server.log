@@ -1,0 +1,37 @@
+2024-06-03 17:41:33,734 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-03 17:41:34,693 - __main__ - INFO - Stopped server
+2024-06-03 17:41:36,429 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-03 17:46:15,039 - __main__ - INFO - Server sucessfully started on host 127.0.0.1 and port 80!
+2024-06-03 17:46:27,980 - __main__ - INFO - Stopped server
+2024-06-03 18:57:29,363 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-03 18:59:05,707 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-07 17:04:24,429 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-07 17:04:27,302 - __main__ - INFO - Stopped server
+2024-06-07 17:04:46,593 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-07 17:04:55,514 - __main__ - INFO - Stopped server
+2024-06-07 17:06:21,829 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-07 17:06:24,326 - __main__ - INFO - Stopped server
+2024-06-07 17:06:35,231 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-07 17:09:13,139 - __main__ - INFO - Stopped server
+2024-06-07 17:09:52,471 - __main__ - INFO - Server sucessfully started on host localhost and port 8000887788!
+2024-06-12 18:09:10,779 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-12 18:16:05,830 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-12 18:16:15,668 - __main__ - INFO - Stopped server
+2024-06-12 18:16:30,041 - __main__ - INFO - Server sucessfully started on host 127.0.0.1 and port 53457!
+2024-06-12 18:16:41,768 - __main__ - INFO - Stopped server
+2024-06-12 18:16:59,050 - __main__ - WARNING - For now, PyServUI does not support HTTPS!
+2024-06-12 18:17:08,750 - __main__ - INFO - Server sucessfully started on host 127.0.0.1 and port 22!
+2024-06-12 18:18:59,445 - __main__ - INFO - Server sucessfully started on host localhost and port 0!
+2024-06-12 18:19:00,566 - __main__ - INFO - Stopped server
+2024-06-12 18:22:49,996 - __main__ - WARNING - Bad port
+2024-06-12 18:22:54,769 - __main__ - INFO - Server sucessfully started on host localhost and port 80!
+2024-06-12 18:23:18,233 - __main__ - INFO - Stopped server
+2024-06-12 18:23:26,737 - __main__ - WARNING - Bad port
+2024-06-12 18:23:29,460 - __main__ - WARNING - For now, PyServUI does not support HTTPS!
+2024-06-12 18:23:42,639 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-12 18:24:33,460 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-12 18:25:51,606 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-12 18:25:55,166 - __main__ - INFO - Stopped server
+2024-06-12 18:25:57,320 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-12 18:26:43,345 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
+2024-06-12 18:27:11,459 - __main__ - INFO - Server sucessfully started on host localhost and port 8000!
